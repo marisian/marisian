@@ -1,6 +1,6 @@
 # Hi there 👋 I'm marisian.
 
-I'm a ** data scientist & researcher ** currently focused on the application of NLP to labor market topics. 
+I'm a **data scientist & researcher** currently focused on the application of NLP to labor market topics. 
 My areas of interest and expertise are:
 - Natural Language Processing (NLP)
 - Data Visualization
@@ -11,7 +11,7 @@ My areas of interest and expertise are:
 - **NLP Classifier**
 - **Visualization Dashboard**
 - **Text Anonymizer**
-- **ML Pipeline API**
+- **ML Pipeline API**-->
 
 ---
 
