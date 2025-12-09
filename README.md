@@ -1,6 +1,6 @@
-# Hi there 👋 I'm marisian.
+# Hi
 
-I'm a **data scientist & researcher** currently focused on the application of NLP to labor market topics. Before focusing on NLP, I worked extensively in data analysis and warehousing in banking and finance organizations. My projects demonstrate not only advanced modeling but also end-to-end pipelines, from raw data ingestion to warehouse modeling and analysis.
+I'm a **data scientist & researcher** currently focused on the application of NLP to labor market topics. Before focusing on NLP, I worked extensively in data analysis and warehousing in banking and finance organizations.
 
 My areas of interest and expertise are:
 - Natural Language Processing (NLP)
@@ -25,6 +25,6 @@ My areas of interest and expertise are:
 
 ---
 
-## Portfolio
-* Work in progress - projects coming soon!
+<!--## Portfolio
+* Work in progress - projects coming soon!-->
 
