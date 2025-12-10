@@ -1,12 +1,12 @@
 Hi, I'm a data scientist & researcher currently focused on the application of NLP to labor market topics. Before focusing on NLP, I worked extensively in data analysis and warehousing in banking and finance organizations.
 
-#### Areas of interest and expertise
+#### My areas of interest and expertise are
 - Natural Language Processing (NLP)
 - Data Visualization
 - CI/CD & Production-Ready Data Pipelines
 - Applied Data Science in labor markets, social data, and text analysis
 
-#### Currently working on
+#### I am currently working on
 - Data pipeline **BeruPipe** for transforming raw database extracts from an occupational database into a datamodel ready for downstream NLP/text mining tasks 
 - Text-based occupational expertise requirements quantification
 - Semantic model of German landscape of occupations including a valid and robust occupational similarity network
