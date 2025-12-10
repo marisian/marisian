@@ -17,7 +17,7 @@ I'm a **data scientist & researcher** currently focused on the application of NL
 - **NLP Classifier**
 - **Visualization Dashboard**
 - **Text Anonymizer**
-- **ML Pipeline API**-->
+- **ML Pipeline API**
 
 ## Tech Stack
 - **Languages**: Python, SQL
